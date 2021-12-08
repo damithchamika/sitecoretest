@@ -1,0 +1,7 @@
+com\Agorial\automation\seleniumpages\LoginPage.class
+com\Algorial\automation\BasePage.class
+com\Algorial\automation\ConfigFileReader.class
+com\Algorial\utils\CommonOp.class
+com\Agorial\automation\seleniumpages\SearchProductPage.class
+com\Algorial\datatables\AddUser.class
+com\Algorial\utils\Constants.class
